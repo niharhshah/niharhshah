@@ -1,6 +1,6 @@
 # 💫 About Me:
-🏢 Micron Technology, mNAND Firmware<br>🧑🏽‍🎓 IIT Bombay, Electronic Systems  <br>💡 Interested in System level designs <br>
 
+Embedded systems enthusiast with a master's in Electronic Systems from IIT Bombay, interested in computer networks and cryptography. Skilled in C, C++, Python, Verilog, FPGA, Linux and microcontroller-based systems. Passionate about contributing to innovative solutions in storage technology at Micron Technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_niihars) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharhshah) 
