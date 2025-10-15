@@ -3,13 +3,18 @@
 Embedded systems enthusiast with a master's in Electronic Systems from IIT Bombay, interested in computer networks and cryptography. Skilled in C, C++, Python, Verilog, FPGA, Linux and microcontroller-based systems. Passionate about contributing to innovative solutions in storage technology at Micron Technology.
 
 # 👨🏻‍💻 Work Experience
+## Samsung Semiconductor India Research
+<b> Associate Staff Engineer / Kernel / Power </b>(Aug 2024 - Present)
+- Designed and developed a Bus debug driver to analyse bus traffic.
+- Upgraded drivers from Android 13 to Android 16 for Bus traffic management.
+- Strengthened test maturity with broader coverage and new negative and stress tests integrated into CI.
+
 ## Micron Technology Operations India LLP
-<b> mNAND Firmware Engineer </b>(2022 - Present)
+<b> Firmware Engineer </b>(Aug 2022 - Aug 2024)
 - Won Impact & Future of Learning at Micron Competition.
-- Designed and Implemented various Read Recovery and Error handling Features in C and C++ on 232 Layer NAND.
+- Designed and implemented various Read Recovery and Error handling Features in C and C++ on 232 Layer NAND.
 - Tested the functionality of features with JTAG and Lauterbach.
-- Initiated and singlehandedly managed 20+ Lab Testers singlehandedly to ensure uninterrupted development. 
-- Collaborated with International teams to make code base compliant with MISRA-C.
+- Collaborated with International teams to make the code base compliant with MISRA-C.
 
 
 # 🎓 Education:
